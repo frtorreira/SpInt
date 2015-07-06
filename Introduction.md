@@ -1,6 +1,15 @@
 # Tonal association in Spanish
 Francisco Torreira
 
+
+* Melodies:
+	* sequences of tones with melody-specific principles of association with elements of a phrase (TBUs).
+	* Closed inventory of melodies
+	* 
+
+
+
+
 ## Introduction
 Problem with neutral declaratives in Spanish. Hualde and Prieto describe many possibilities. They also assume one level of phrasing. Torreira (2015) found evidence against prenuclear+nuclear structure of tunes. In declaratives, it seems that there was an alternation between HL* and LH* depending on whether a prominent peak towards of the previous word was found. Otherwise, no prominent peaks, and hat pattern with HL*.
 
