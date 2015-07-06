@@ -2,6 +2,7 @@
 
 Here comes a description of the fall (*F*).
 
+<<<<<<< HEAD
 ![title](ejemplo.jpg)
 ![title](ejemplo.wav)
 <audio controls="controls">
@@ -9,6 +10,10 @@ Here comes a description of the fall (*F*).
   <source type="audio/ogg" src="filename.ogg"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+=======
+![title](ejemplo.pdf)
+
+>>>>>>> origin/master
 La  patata caliente
 LH 
 
