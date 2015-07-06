@@ -2,7 +2,7 @@
 
 Here comes a description of the fall (*F*).
 
-![title](ejemplo.jpg)
+![title](ejemplo.svg)
 
 La  patata caliente
 LH 
