@@ -2,8 +2,9 @@
 
 Here comes a description of the fall (*F*).
 
-![title](ejemplo.jpg)
+
+
 
 <audio controls="controls">
-  <source type="audio/wav" src="ejemplo.wav"></source>
+  <source type="audio/mp3" src="ejemplo.wav"></source>
 </audio>
