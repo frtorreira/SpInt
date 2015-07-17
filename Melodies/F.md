@@ -1,5 +1,4 @@
 ## *F*
 
 Here comes a description of the fall (*F*).
-
-{% video %}https://youtu.be/3l0pfRvUUsU{% endvideo %}
+{% aimg %}ejemplo.jpg,audio/img1.ogg,audio/img1.mp3{% endaimg %}
