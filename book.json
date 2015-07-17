@@ -1,7 +1,8 @@
 {
     "plugins": [
         "video",
-        "Rgitbook"
+        "Rgitbook",
+        "audio_image"
     ],
     "pluginsConfig": {}
 }
